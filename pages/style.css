@@ -88,7 +88,17 @@ footer {
   text-align: center;
 }
 
-#drink-list > table {
+#food {
+  width: 100%;
+}
+
+#food > h3 {
+  width: 50vw;
+  margin: 0 5vw 25px auto;
+  text-align: center;
+}
+
+#food-list > table {
   width: 35%;
   margin-right: 5%;
   margin-left: 10%;
@@ -100,7 +110,13 @@ footer {
   text-align: center;
 }
 
-#drink-image > img {
+#food-image {
+  height: 45vh;
+  width: 40%;
+  text-align: center;
+}
+
+#food-image > img {
   height: 100%;
   border-radius: 50%;
 }
